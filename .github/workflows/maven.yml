@@ -33,7 +33,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: built-artifacts
-        path: target/  # Adjust this path if your build output directory is different
+        path: builds/  # Adjust this path if your build output directory is different
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
     - name: Update dependency graph
