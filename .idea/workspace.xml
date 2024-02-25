@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74b84de8-3470-442f-b1e6-ea5bf7bf26bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jmat/ConvertToV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jmat/Score/Resources/BitwiseUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jmat/Score/Resources/ModParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jmat/Score/V2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jmat/Score/Resources/TestBitwiseUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jmat/Score/Resources/TestModParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jmat/Score/TestV2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cpQPGvsMaxRa2rb9W9Eg3PyTko" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in osuScoreV2.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.AppTest.testNC.executor": "Run",
+    "JUnit.TestBitwiseUtils.testIsBitSet.executor": "Run",
+    "JUnit.TestModParser.executor": "Run",
+    "JUnit.TestModParser.testDefaultConstructor.executor": "Run",
+    "JUnit.TestModParser.testModMultiplierWithModifiers.executor": "Run",
+    "JUnit.TestmodParser.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "G:/Other computers/My Laptop/IdeaProjects/osuScoreV2/src/test/java/org/jmat/Score",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.jmat.Score.Resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.jmat.Score" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in osuScoreV2">
+    <configuration name="All in osuScoreV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="osuScoreV2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBitwiseUtils.testIsBitSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="osuScoreV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jmat.Score.Resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jmat.Score.Resources" />
+      <option name="MAIN_CLASS_NAME" value="org.jmat.Score.Resources.TestBitwiseUtils" />
+      <option name="METHOD_NAME" value="testIsBitSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestModParser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="osuScoreV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jmat.Score.Resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jmat.Score.Resources" />
+      <option name="MAIN_CLASS_NAME" value="org.jmat.Score.Resources.TestModParser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestModParser.testDefaultConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="osuScoreV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jmat.Score.Resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jmat.Score.Resources" />
+      <option name="MAIN_CLASS_NAME" value="org.jmat.Score.Resources.TestModParser" />
+      <option name="METHOD_NAME" value="testDefaultConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestModParser.testModMultiplierWithModifiers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="osuScoreV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jmat.Score.Resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jmat.Score.Resources" />
+      <option name="MAIN_CLASS_NAME" value="org.jmat.Score.Resources.TestModParser" />
+      <option name="METHOD_NAME" value="testModMultiplierWithModifiers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in osuScoreV2" />
+        <item itemvalue="JUnit.TestModParser" />
+        <item itemvalue="JUnit.TestModParser.testModMultiplierWithModifiers" />
+        <item itemvalue="JUnit.TestModParser.testDefaultConstructor" />
+        <item itemvalue="JUnit.TestBitwiseUtils.testIsBitSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-temurin-21.0.1-4caba194b151-b7b86d5d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74b84de8-3470-442f-b1e6-ea5bf7bf26bb" name="Changes" comment="" />
+      <created>1708806014477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708806014477</updated>
+      <workItem from="1708806015473" duration="118000" />
+      <workItem from="1708806141054" duration="612000" />
+      <workItem from="1708810225979" duration="12022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
