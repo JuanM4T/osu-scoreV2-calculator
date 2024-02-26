@@ -1,7 +1,7 @@
 package org.jmat.Score;
 
 import org.jetbrains.annotations.NotNull;
-import org.jmat.Score.Resources.ModParser;
+import org.jmat.Score.Utilities.ModParser;
 
 /**
  * The V2 class represents a scoring system for osu! that calculates scores based on a formula that takes into account some factors
@@ -32,7 +32,7 @@ public class V2 {
         this.accuracy = accuracy;
         this.combo = combo;
         this.maxCombo = maxCombo;
-        score = ((double) (COMBO_WEIGHT * combo) / maxCombo + ACC_WEIGHT * (Math.pow(accuracy, ACC_SCALE_DOWN))) * modMultiplier;
+        score =  ((COMBO_WEIGHT * ((double) combo / maxCombo)) + ACC_WEIGHT * (Math.pow(accuracy, ACC_SCALE_DOWN))) * modMultiplier;
     }
     /**
      * Constructs a V2 object with the given accuracy and mod settings.

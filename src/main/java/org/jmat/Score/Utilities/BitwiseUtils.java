@@ -1,4 +1,4 @@
-package org.jmat.Score.Resources;
+package org.jmat.Score.Utilities;
 
 /**
  * Utility class for bitwise operations.

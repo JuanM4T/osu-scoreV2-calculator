@@ -1,4 +1,4 @@
-package org.jmat.Score.Resources;
+package org.jmat.Score.Utilities;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -21,9 +21,14 @@ public class TestModParser {
         assertEquals(0, new ModParser("GBTSKYSNOW").getModBitwise());
     }
     @Test
-    void testEverything(){
+    void testModParsing() {
+        // Test parsing a variety of mods including some combinations
+        // Expecting NF, HR, DT, HD, TD, 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, EZ, SD, RX, AT, AP, HT, FL, SO, PF, V2, NC, CN, TP, FI, RD, KC to be parsed
         assertEquals(1073741823, new ModParser("NF HR DT HD TD 1K2K3K4K5K6K 7K8K9KEZTDSDRXATAPHTFLSOPFv2NCncncncncKCFIRDCntpkc").getModBitwise());
+
+        // Add more test cases here for different scenarios and edge cases
     }
+
     @Test
     public void testDefaultConstructor() {
         ModParser modParser = new ModParser();

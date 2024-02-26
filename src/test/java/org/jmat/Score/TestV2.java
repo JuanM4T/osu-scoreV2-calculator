@@ -1,6 +1,6 @@
 package org.jmat.Score;
 
-import org.jmat.Score.Resources.ModParser;
+import org.jmat.Score.Utilities.ModParser;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

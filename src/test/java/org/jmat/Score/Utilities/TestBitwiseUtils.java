@@ -1,4 +1,4 @@
-package org.jmat.Score.Resources;
+package org.jmat.Score.Utilities;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
